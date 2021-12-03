@@ -3,9 +3,9 @@
 This is a game in which a player is given an RGB color code and he has to identify the correct color.
 
 
-## Deployment
+## How to play
 
-This game is already deployed at:
+To play this copy and paste the following link into your browser:
 
 ```bash
   https://ultimate-color-game.herokuapp.com/
