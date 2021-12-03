@@ -107,7 +107,7 @@ function generateRandomColors(num)
 
 function randomColor()
 {
-	//pick a rgb colors from 0 - 255
+	//pick red, green and blue color from 0 - 255
 	var r = Math.floor(Math.random() * 256);
 	var g = Math.floor(Math.random() * 256);
 	var b = Math.floor(Math.random() * 256);
