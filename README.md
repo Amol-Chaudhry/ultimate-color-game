@@ -1,6 +1,6 @@
 # The Ultimate Color Game.
 
-This is a game in which a player is given an RGB color code and he has to identify the correct color.
+This is a game in which a player is given an RGB color code and has to identify the correct color.
 
 
 ## How to play
